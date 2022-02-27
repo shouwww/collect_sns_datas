@@ -9,6 +9,7 @@ verify_ssl = true
 3-8 = "*"
 requests = "*"
 requests-oauthlib = "*"
+pandas = "*"
 
 [requires]
 python_version = "3.8"
